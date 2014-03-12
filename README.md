@@ -1,0 +1,4 @@
+ZstyleX
+=======
+
+Theme for Zpanel
