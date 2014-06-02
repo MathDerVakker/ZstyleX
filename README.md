@@ -1,17 +1,13 @@
-#ZstyleX Theme
-========
+#ZstyleX Theme  
 
 * Version: 0.0.0.12 (Alfa version!)
 * [Forums](http://forums.zpanelcp.com/Thread-Are-the-colors-businesslike-or-just-to-dull) for comments, discussion and community support.
 
 
-========
-========
 #Description
 
 A light, clean, simple and trying to be professional looking Bootstrap based theme for [ZPanel](http://www.zpanelcp.com/) 10.1.x.
 
-========
 #Downloading ZstyleX
 
 ####To use this theme in ZPanel:
@@ -21,21 +17,18 @@ A light, clean, simple and trying to be professional looking Bootstrap based the
 4. Go to your ZPanel **Admin** => **Reseller** => **Theme Manager** choose **ZstyleX** and save.
 5. If you like you may choose a theme variation.
 
-========
 #License agreement
 
 ZStyleX is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
 So it can be used for **personal and commercial** purposes, but **please do not remove** the **powered by _(Auxio logo)_**!
 
-========
 #Author
 
 This theme is designed by Ron a.k.a. @MathDerVakker.
 
 Author's website: [Auxio.eu](http://auxio.eu/)
 
-========
 #Credits
 
 This theme uses:
@@ -44,12 +37,10 @@ This theme uses:
 * [Zpanel logo's from Bradyhawke](http://forums.zpanelcp.com/Thread-ZPanel-logo-signature-in-new-sizes?pid=82793#pid82793)
 * And lots if random things from the [default zPanel theme by jasondavis](http://forums.zpanelcp.com/Thread-Theme-in-Progress?pid=50835#pid50835)
 
-========
 #Getting support
 
 If you have a question of found a bug you are free to comment in [this thread](http://forums.zpanelcp.com/Thread-Are-the-colors-businesslike-or-just-to-dull) on the [ZPanel forums](http://forums.zpanelcp.com/).
 
-========
 #WARRANTY
 
 THE THEME IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. 
