@@ -1,7 +1,7 @@
 #ZstyleX Theme  
 
 * Version: 0.0.0.12 (Alfa version!)
-* [Forums](http://forums.zpanelcp.com/Thread-Are-the-colors-businesslike-or-just-to-dull) for comments, discussion and community support.
+* [Forums](http://forums.zpanelcp.com/Thread-Are-the-colors-businesslike-or-just-to-dull) for comments, discussion, more information and community support.
 
 
 ##Description
@@ -25,7 +25,7 @@ So it can be used for **personal and commercial** purposes, but **please do not 
 
 ##Author
 
-This theme is designed by Ron a.k.a. @MathDerVakker.
+This theme is designed by Ron a.k.a. @MathDerVakker .
 
 Author's website: [Auxio.eu](http://auxio.eu/)
 
