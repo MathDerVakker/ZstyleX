@@ -1,7 +1,7 @@
 #ZstyleX Theme  
 
 * Version: 0.0.0.12 (Alfa version!)
-* [Forums](http://forums.zpanelcp.com/Thread-Are-the-colors-businesslike-or-just-to-dull) for comments, discussion, more information and community support.
+* [Forums](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) for comments, discussion, more information and community support.
 
 
 ##Description
@@ -39,7 +39,7 @@ This theme uses:
 
 ##Getting support
 
-If you have a question of found a bug you are free to comment in [this thread](http://forums.zpanelcp.com/Thread-Are-the-colors-businesslike-or-just-to-dull) on the [ZPanel forums](http://forums.zpanelcp.com/).
+If you have a question of found a bug you are free to comment in [this thread](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) on the [ZPanel forums](http://forums.zpanelcp.com/).
 
 ##WARRANTY
 
