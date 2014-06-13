@@ -1,6 +1,6 @@
 #ZstyleX Theme  
 
-* Version: 0.0.0.41 (alpha version!)
+* Version: 0.0.0.42 (alpha version!)
 * [Forums](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) for comments, discussion, more information and community support.
 
 
@@ -25,7 +25,7 @@ So it can be used for **personal and commercial** purposes, but **please do not 
 
 ##Author
 
-This theme is designed by Ron a.k.a. @MathDerVakker .
+This theme is designed by Ron a.k.a. MathDerVakker [@github](https://github.com/MathDerVakker), [@ZPanel forum](http://forums.zpanelcp.com/User-MathDerVakker).
 
 Author's website: [Auxio.eu](http://auxio.eu/)
 
