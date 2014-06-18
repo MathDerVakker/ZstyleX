@@ -1,6 +1,6 @@
 #ZstyleX Theme  
 
-* Version: 0.0.0.42 (alpha version!)
+* Version: 1.0.0
 * [Forums](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) for comments, discussion, more information and community support.
 
 
