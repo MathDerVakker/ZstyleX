@@ -1,6 +1,6 @@
 #ZstyleX Theme  
 
-* Version: 1.0.0
+* Version: 1.0.1
 * [Forums](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) for comments, discussion, more information and community support.
 
 
@@ -40,6 +40,15 @@ This theme uses:
 ##Getting support
 
 If you have a question of found a bug you are free to comment in [this thread](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) on the [ZPanel forums](http://forums.zpanelcp.com/).
+
+##Version updates
+
+
+1.0.0 
+* Uploaded first version
+
+1.0.1
+* Fixed non-standard spaces bug in js/zpanel.js. [BugFix by erunaheru](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1?pid=86730#pid86730)
 
 ##WARRANTY
 
