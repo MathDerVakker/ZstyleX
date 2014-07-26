@@ -25,7 +25,7 @@ So it can be used for **personal and commercial** purposes, but **please do not 
 
 ##Author
 
-This theme is designed by Ron a.k.a. ron-e [@github](https://github.com/Ron-e) formally know as MathDerVakker [@github](https://github.com/MathDerVakker).
+This theme is designed by Ron a.k.a. Ron-e [@github](https://github.com/Ron-e) formally know as MathDerVakker [@github](https://github.com/MathDerVakker).
 
 Author's website: [Auxio.eu](http://auxio.eu/)
 
