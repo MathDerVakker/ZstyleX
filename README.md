@@ -11,7 +11,7 @@ A light, clean, simple and trying to be professional looking Bootstrap based the
 ##Downloading ZstyleX
 
 ###To use this theme in ZPanel:
-1. [download the master branch](https://github.com/MathDerVakker/ZstyleX/archive/master.zip).
+1. [download the master branch](https://github.com/auxio/ZstyleX/archive/master.zip).
 2. Extract **ZstyleX-master.zip** and rename the directory from **ZstyleX-master** to **ZstyleX**.
 3. Upload your **ZstyleX** directory into **/etc/zpanel/panel/etc/styles** directory on your ZPanel server.
 4. Go to your ZPanel **Admin** => **Reseller** => **Theme Manager** choose **ZstyleX** and save.
@@ -25,7 +25,7 @@ So it can be used for **personal and commercial** purposes, but **please do not 
 
 ##Author
 
-This theme is designed by Ron a.k.a. MathDerVakker [@github](https://github.com/MathDerVakker), [@ZPanel forum](http://forums.zpanelcp.com/User-MathDerVakker).
+This theme is designed by Ron a.k.a. ron-e [@github](https://github.com/Ron-e) formally know as MathDerVakker [@github](https://github.com/MathDerVakker).
 
 Author's website: [Auxio.eu](http://auxio.eu/)
 
