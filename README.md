@@ -51,7 +51,7 @@ If you have a question of found a bug you are free to comment in [this thread](h
 * Fixed non-standard spaces bug in js/zpanel.js. [BugFix by erunaheru](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1?pid=86730#pid86730)
 
 1.0.2
-* Fixed little button spacing thing...
+* Fixed button spacing and z-index from search wrapper.
 
 ##WARRANTY
 
