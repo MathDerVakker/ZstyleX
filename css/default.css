@@ -743,7 +743,7 @@ li.module-box-body {
     width: 230px;
     margin: 0px;
     position: relative;
-    z-index: 1029;
+    z-index: 999;
 }
 #module-search {
     width: 230px;
