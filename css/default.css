@@ -548,6 +548,9 @@ li.highlight {
 .table {
 margin-bottom: 0;
 }
+.btn{
+	margin-right: 6px;
+}
 /* END all content thingisch */
 
 /* Modules homepage */

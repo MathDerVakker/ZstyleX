@@ -1,6 +1,6 @@
 #ZstyleX Theme  
 
-* Version: 1.0.1
+* Version: 1.0.2
 * [Forums](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1) for comments, discussion, more information and community support.
 
 
@@ -49,6 +49,9 @@ If you have a question of found a bug you are free to comment in [this thread](h
 
 1.0.1
 * Fixed non-standard spaces bug in js/zpanel.js. [BugFix by erunaheru](http://forums.zpanelcp.com/Thread-ZstyleX-Theme-zp-10-1-1?pid=86730#pid86730)
+
+1.0.2
+* Fixed little button spacing thing...
 
 ##WARRANTY
 
