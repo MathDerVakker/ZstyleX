@@ -53,6 +53,9 @@ If you have a question of found a bug you are free to comment in [this thread](h
 1.0.2
 * Fixed button spacing and z-index from search wrapper.
 
+1.0.2 (no version update)
+* fixed small footer issues: disabling default border-radius and only border at top.
+
 ##WARRANTY
 
 THE THEME IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. 
