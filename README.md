@@ -1,3 +1,22 @@
+# zPanel is dead!!
+
+If your sad about this, check out [Sentora](http://sentora.org/), its a zPanel fork by the original volunteer development and support team!
+And this all just because hostwinds killed zPanel!
+
+P.S. This theme is renamed and ported to Sentora under the name [Zentora](http://forums.sentora.org/showthread.php?tid=160&pid=1099#pid1099) so you still can enjoy this theme!
+
+
+
+
+
+
+
+
+
+
+
+
+
 #ZstyleX Theme  
 
 * Version: 1.0.2
